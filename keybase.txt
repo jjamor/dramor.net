@@ -1,0 +1,80 @@
+https://keybase.io/jjamor
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://dramor.net
+  * I am jjamor (https://keybase.io/jjamor) on keybase.
+  * I have a public key with fingerprint 344C 3571 EF99 3637 7EE9  DCE6 D592 0E93 7CC1 E39B
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.4.11"
+        },
+        "key": {
+            "fingerprint": "344c3571ef9936377ee9dce6d5920e937cc1e39b",
+            "host": "keybase.io",
+            "key_id": "D5920E937CC1E39B",
+            "uid": "e365169d91f49931c2b9fb1ea4f1b500",
+            "username": "jjamor"
+        },
+        "merkle_root": {
+            "ctime": 1403981190,
+            "hash": "83d32cd28ee0af4c74e6714077716823ed47728186bfb0fddc1b773e59a0d6e1ce20365db9e339cd954dc0e87ba1684861a8ac672f3b02a3eb56a20f0c6d6c5e",
+            "seqno": 24390
+        },
+        "service": {
+            "hostname": "dramor.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1403983239,
+    "expire_in": 157680000,
+    "prev": "4ed2c89001ef4a39b356e3518b75b0ca6fde2e4ea81a91e7697bb5bed39e5837",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFVkn9QFGUYxw/FOmSU7kAYyoA2EZi5cHff/fWeYiKeooMFQeFQcrc/3uMWjttj
+70AYZLAZnMwmxlRAExpIh4oTmOJHwzSMo47mQFlUXNYgEU5EjOgMaAWO1S5DU+5f
+777v5/k+3+/7vMfWrDQYQ0aPrz1x8OKtMyHDvwmG3O51b1RjgiJVYdZqTHTLyOPX
+Vx6+FGFWrARVCbwPpcpKgkeRUGqxL2GZsWAVSPXJikej8FQqlSCwGovO69VO2VOE
+VK8q62IYoCgR0CyBnBACBrAsQlASESPRkMQRBKwoEghAQdN0KT7/I22xJU27LGm7
+O3TepvEZGYQNwO3aWfnSAQIMTTBQgoST0loQIilAp0AgnnISAo3jOuhD6nKm4mK+
+VFF1t6VILXEju6ooS5lFv6wDBIUDyBEExDU/vM+llXBAAqQokRxCOO+kRJZCDKtx
+LMsSDEcCJFEsS3IExwhOAXdKkkgILAsQDXlcYhAhIhLXPEoCRABAUYI0JYk44liB
+1+opjiF4jhcZlnQCASd5gASa4UnciYuMxIg00gL4UJlHwawkBSBeo/+qFbKIdNv6
+nS1Hk1Q9WqoH6fPxqopfERW3tu/y+71WPbG/yqtzB5Bg1xU+0iTsguyRtHn9f6KE
+hj5yG4AE0IKhSq+sIrusEzTLcLj26X1QhaZJIYkUOYjj2pwpXhsnoBkEaIITWFrA
+RZ5xSohEFOI5gocEYhnICgItIAlARHOA/S8jq/nkizRJn1zk4f3lKsJq3lyxPtQQ
+YjQ8tmqF/mQNq8Oe+Pcd34ARD03rR17+a+d8Dzu3usA8dWVsoTe2b7EkOaJaPGht
+u3O8ccwV2F7/92LgwURRWWxO+uylHEcMuBPov+gu5E6Thm87YKRr3JYkxJFzWeY9
+Q+TW1k3oWprpBJ6rms3eZ8Op8mj7JDOddqGjyb25eaNvuL8Y3+b6KS7itHki+3pb
+d791KEWwfRlbdjnx9ebEhCR/5/Wv2tvS3xnPWWOfmWGmowvglYUXbBfqm43z+7Ma
+8EFsf11TndkxM2Sti47ul7u769fylbkthSlRt7dUyD8vvHLOGHbk6RRmj21yl4Te
+/uXSYHprbels+D5v8vih8XBH8jqSuc+GTp89vDXr+cMfl18dHsgbypU2z7z/6Y+f
+R0XAD58aczyc3BUyrHZZjrnOmpX8hGdOheytufdFYqRjjB95d1tD4PKrQd9EfdTd
+J/N7SjZMxFtH3IN8etho8s3pTGvvQhf44e69xeAOY07SyoGYkvsZ842NA39MbTzQ
+QX/yTXtf5mujHXOZLcTUrezIc+/5e3uaarlDgeCqxrQtJ6ne2paXYNWZawHw2YPH
+p36tMt48Jfs6eQrrNwxZ4oPfS6YY3mUAsxm3vz4fVtR7vpa6EYyvLKgWA4sDJtPh
+vO92H9ndma+2ZsebK3d2muId7VTHc3Vxe6+Gntx0dIPNEroP6/ugIdj11gh6caHw
+z9/z/gE=
+=z04C
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jjamor
+
