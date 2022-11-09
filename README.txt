@@ -1,5 +1,5 @@
 Big Picture by HTML5 UP
-html5up.net | @n33co
+html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
@@ -23,7 +23,9 @@ download and/or use any of Felicia's or Michael's work without their explicit
 permission!)
 
 AJ
-n33.co @n33co dribbble.com/n33
+aj@lkn.io | @ajlkn
+
+PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
 
 
 Instructions:
@@ -86,57 +88,26 @@ Instructions:
 	Lightbox Gallery:
 
  		The actual gallery function is powered by my Poptrox plugin. For info on
- 		how that works, go here: github.com/n33/jquery.poptrox
+ 		how that works, go here: github.com/ajlkn/jquery.poptrox
 
-		Rows:
+		Each image (the '...' bit in the above examples) should look like this:
 
-		 	The structure of the gallery is a skel grid. Each row looks like this:
+			<article class="from-(direction)">
+				<a href="path/to/fullsize.jpg" class="image fit">
+					<img src="path/to/thumbnail.jpg" title="This is the image caption." alt="" />
+				</a>
+			</article>
 
-			 	<div class="row flush images">
-			 		<div class="6u">...<div>
-			 		<div class="6u">...<div>
-			 	</div>
+		The "from-(direction)" class indicates the direction from which the image should
+		slide into view, and can be any of the following:
 
-			The "Xu" class indicates the width of the cell (in this case, both are 6).
-			You can use any number of cells and any combination of widths provided their
-			combined widths add up to exactly 12. So, if you needed, say, three images
-			in a row, you can do something like this:
+			from-left
+			from-right
+			from-bottom
+			from-left
 
-			 	<div class="row flush images">
-			 		<div class="4u">...<div>
-			 		<div class="4u">...<div>
-			 		<div class="4u">...<div>
-			 	</div>
-
-			You can also use a "-Xu" class to "nudge" a cell over by that much, which
-			comes in handy if you need to place just one image on a row and you want
-			to center it:
-
-			 	<div class="row flush images">
-			 		<div class="6u -3u">...<div>
-			 	</div>
-
-			Which translates to "make this 6 wide and nudge it over to the right by
-			another 3".
-
-		Images:
-
-			Each image (the '...' bit in the above examples) should look like this:
-
-				<a href="path/to/fullsize.jpg" class="image fit from-(direction)">
-					<img src="path/to/thumbnail.jpg" title="This is the image caption." alt="" /></a>
-				</div>
-
-			The "from-(direction)" class indicates the direction from which the image should
-			slide into view, and can be any of the following:
-
-				from-left
-				from-right
-				from-bottom
-				from-left
-
-			You can also just remove the "from-(direction)" class if you don't want that particular
-			image to slide into view (in which case it'll simply fade in).
+		You can also just remove the "from-(direction)" class if you don't want that particular
+		image to slide into view (in which case it'll simply fade in).
 
 
 	Contact Form:
@@ -149,16 +120,13 @@ Instructions:
     Icons:
 
      	Powered by Font Awesome. Go here for a full listing of all the icons you can use:
-     	fortawesome.github.io/Font-Awesome/cheatsheet
+     	fontawesome.io
 
 
 	Other Stuff:
 
 		- If you don't like the way images are tinted, either change "images/overlay.png"
 		  to something else, or remove all references to it from css/style.css.
-
-		- If you plan to keep support for IE8 (what little there is), don't forget to update
-		  css/ie/ie8.css as you change other stuff.
 
 
 Credits:
@@ -178,14 +146,10 @@ Credits:
 			"Air Lounge"
 
 	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
+		Font Awesome (fontawesome.io)
 
 	Other:
 		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 PIE (css3pie.com)
-		background-size polyfill (github.com/louisremi)
-		jquery.poptrox (n33.co)
-		jquery.scrolly (n33.co)
-		jquery.scrollgress (n33.co)
-		skel (n33.co)
+		Poptrox (github.com/ajlkn/jquery.poptrox)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
